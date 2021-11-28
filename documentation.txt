@@ -1,0 +1,6 @@
+To compile the programs run these commands in a linux/unix terminal:
+gcc Banker_Algorithm.cpp
+To execute the programs run this command in a linux/unix terminal
+./a.out
+
+See example.txt for an example output of the programs

@@ -1,0 +1,4 @@
+jakub@jakub-VirtualBox:~/Desktop/Project2$ ./a.out
+Following is the SAFE Sequence:
+ P1 -> P3 -> P4 -> P0 -> P2
+
